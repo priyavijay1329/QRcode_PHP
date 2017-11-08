@@ -1,5 +1,5 @@
 <?php
-$dir = 'temp';
+$dir = 'phpqrcode/temp';
 $leave_files = array('test.png');
 
 foreach( glob("$dir/*") as $file ) {
